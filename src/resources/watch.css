@@ -1,0 +1,16 @@
+.watch-container{
+    width: 100%;
+    min-width: 100lvw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+   background-color: rgb(122, 59, 185);
+}
+
+.operator-container{
+    display: flex;
+    gap: 1rem;
+}
